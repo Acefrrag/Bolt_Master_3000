@@ -20,7 +20,7 @@ Here is a demo of the system where it shows the system testing a correctly insta
 
 
 
-## Phases of the Design
+### Phases of the Design
 
 The design 
 
