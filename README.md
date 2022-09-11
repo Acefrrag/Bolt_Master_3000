@@ -16,17 +16,20 @@ The bolt is checked by pushing a DC motors onto it using a pneumatic actuator. T
 
 Here is a demo of the system where it shows the system testing a correctly installed bolt and a missing bolt.
 
-
-
-
 https://user-images.githubusercontent.com/59066474/189550218-b4baf25a-3ad1-4a13-9e47-b2368a44c600.mp4
 
+The user interface on the screen has a button to start the bolt testing. The user interface displays the result with a pair of LEDs per bolt(RED for failure, GREEN for success). Neverthless, as it can be seen the user interface implemented included only 2 bolt. There was a lack of actuators and ther is only one DC motor testing unit. The corresponind is diplayed on the top right.
 
-
+1. In the first test there is no bolt installed in the hole. As the motor spins, the amount of current drained is the lowest, therefore the system detects there is no bolt. The result is marked with a RED flag on the PLC monitor, aknowledging the failure in the installation of the bolt.
+2. In the second test the bolt has been correctly installed. In this case as the voltage at the DC motor ends, the motor doesn't spin draining a much greater amount of current. In this case, the system detects a bolt and the corresponding GREEN LED light up.
 
 ### Phases of the Design
 
-The design 
+The design flow was supervised by the lecturer and consisted in different steps:
+
+1.
+2.
+3.
 
 ## Team 
 
