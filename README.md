@@ -1,6 +1,6 @@
 # Bolt Master 3000
 
-## Description
+## Repository Description
 This github repositories collects all the documentation(CAD files, reports, BOMs, brainstorming notes) produced during the design and development of a proof-of-concept mechatronic system for the undergraduatee course MECA140 - Introduction to Engineering Design and Automation during A.Y. 2019-2020.
 
 ## Project Description
