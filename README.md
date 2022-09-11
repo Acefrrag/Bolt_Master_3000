@@ -19,6 +19,10 @@ Here is a demo of the system where it shows the system testing a correctly insta
 
 
 
+https://user-images.githubusercontent.com/59066474/189550218-b4baf25a-3ad1-4a13-9e47-b2368a44c600.mp4
+
+
+
 
 ### Phases of the Design
 
