@@ -23,14 +23,7 @@ The user interface on the screen has a button to start the bolt testing. The use
 1. In the first test there is no bolt installed in the hole. As the motor spins, the amount of current drained is the lowest, therefore the system detects there is no bolt. The result is marked with a RED flag on the PLC monitor, aknowledging the failure in the installation of the bolt.
 2. In the second test the bolt has been correctly installed. In this case as the voltage at the DC motor ends, the motor doesn't spin draining a much greater amount of current. In this case, the system detects a bolt and the corresponding GREEN LED light up.
 
-### Phases of the Design
-
-The design flow was supervised by the lecturer and consisted in different steps:
-
-1.
-2.
-3.
 
 ## Team 
 
-The project is the result of the team work with my teammates R.L. and A.J. 
+The project is the result of the team work with my teammates Rion Loader and Abrham Jimenez.
